@@ -144,4 +144,3 @@ hasil_kmeans.to_csv("Hasil_Clustering_Mall_Customers.csv", index = False)
 **Referensi:**
 * Dataset: [Mall Customer Segmentation Data - Kaggle](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python)
 * Metode: K-Means Clustering
-```
